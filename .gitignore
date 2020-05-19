@@ -1,0 +1,17 @@
+**/.DS_Store
+**/validate.xml
+.idea
+.metadata
+**/node_modules
+**/sftp-config.json*
+**/*.xlsx
+**/**.iml
+**/public
+**/.history
+**.log
+**/*.js.map
+**/**/*.swp
+**/build
+*.patch
+.vscode/*
+node_modules.zip
